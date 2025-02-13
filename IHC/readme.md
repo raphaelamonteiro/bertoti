@@ -1,4 +1,4 @@
-* Aula I
+# Aula I
 - Como era a Interação Humano Computador + - 70? CLI
  
 - E dos + - 80 até 2007? GUI
