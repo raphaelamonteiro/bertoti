@@ -1,16 +1,14 @@
 # Aula I
 
  **Como era a Interação Humano Computador + - 70? CLI** <br>
-As Interfaces de Linha de Comando tiveram início em meados das décadas de 1960 e 1970, quando os primeiros sistemas operacionais baseados em texto estavam surgindo. Nesse período, não existiam interfaces gráficas de usuário (GUI) e os periféricos disponíveis eram o teclado e o monitor, que exibia apenas texto. Assim os computadores eram usados através das CLIs.
-- Era necessário um conhecimento técnico considerável para operar esses sistemas, o que limitava a acessibilidade a um público restrito.
+As Interfaces de Linha de Comando que tiveram início em meados das décadas de 1960 e 1970, exibiam apenas texto. Era necessário um conhecimento técnico considerável para operar esses sistemas, o que limitava a acessibilidade a um público restrito.
 
  **E dos + - 80 até 2007? GUI** <br>
-A Graphical User Interface foi introduzida pela primeira vez no computador Xerox Alto, desenvolvido pela Xerox PARC (Palo Alto Research Center) na década de 1970.<br>
-Essa interface revolucionária **substituiu a linha de comando**, que era a forma predominante de interação com os computadores na época. A GUI foi popularizada pelo Apple Macintosh em 1984 e pelo sistema operacional Windows da Microsoft em 1985, tornando-se o padrão de interação com computadores pessoais. <br>
+A Graphical User Interface, que foi introduzida pela primeira vez no computador Xerox Alto, desenvolvido pela Xerox PARC (Palo Alto Research Center) na década de 1970, **substituiu a linha de comando** e foi popularizada pelo Apple Macintosh em 1984 e pelo sistema operacional Windows da Microsoft em 1985, tornando-se o padrão de interação com computadores pessoais. <br>
 A Graphical User Interface (GUI) é uma forma **mais intuitiva de interação com o computador**, permitindo que os usuários realizem tarefas de forma fácil e sem a necessidade de conhecimentos técnicos avançados, facilitando a adoção dos computadores em diversas áreas, como educação, negócios e lazer.
 
 **E de 2007 até agora? NUI**
-Natural User Interface (Interface Natural de Usuário) é o termo que utilizamos para nos referir a uma interface que é efetivamente invisível, e que permite uma interação mais intuitiva e "natural", como toque, gestos, voz e até reconhecimento facial. <br> 
+Natural User Interface (Interface Natural de Usuário) define uma interface que é efetivamente invisível, e que permite uma interação mais intuitiva e "natural", como toque, gestos, voz e até reconhecimento facial. <br> 
 A principal característica é a interação sem a necessidade de dispositivos intermediários, como mouse e teclado. <br>
 Com a popularização de dispositivos móveis e o avanço das tecnologias de sensores, o conceito de NUI (Natural User Interface, ou Interface Natural com o Usuário) se solidificou. <br>
 **Exemplos de NUI incluem:**
