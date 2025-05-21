@@ -1,0 +1,4 @@
+Based on the following project description, return only a very short keyword-based summary (3 to 5 words max) that captures its purpose for use in a web search. Do not write full sentences.
+
+Description:
+{conteudo}

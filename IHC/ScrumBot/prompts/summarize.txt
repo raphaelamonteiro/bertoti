@@ -1,0 +1,3 @@
+You are a project analyst. Summarize the following project in 3–5 sentences:
+
+{conteudo}

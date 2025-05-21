@@ -1,0 +1,6 @@
+gradio
+requests
+fpdf
+PyMuPDF
+duckduckgo-search
+python-dotenv

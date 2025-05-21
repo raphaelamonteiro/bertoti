@@ -1,0 +1,25 @@
+# Diretórios comuns que não precisam estar no repositório
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos gerados automaticamente
+generated_backlogs/
+
+# Arquivos temporários/sistema operacional
+*.swp
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos de IDEs/editors
+.vscode/
+.idea/
+
+.generated_backlogs/
