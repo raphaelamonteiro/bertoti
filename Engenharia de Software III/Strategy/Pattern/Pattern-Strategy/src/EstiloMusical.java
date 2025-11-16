@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
-public class EstiloMusical {
+public class EstiloMusical implements EstiloJogo {
+    @Override
+    public void executar() {
+        System.out.println("Toca uma música inspiradora!");
+    }
 }
